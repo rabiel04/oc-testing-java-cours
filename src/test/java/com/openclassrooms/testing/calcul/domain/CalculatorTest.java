@@ -68,11 +68,11 @@ public class CalculatorTest {
 	@Test
 	public void testAddTwoPositiveNumbers() {
 		// Arrange
-		final int a = 2;
+		final int  g = 2;
 		final int b = 3;
 
 		// Act
-		final int somme = calculatorUnderTest.add(a, b);
+		final int somme = calculatorUnderTest.add(g , b);
 
 		// Assert
 		assertThat(somme).isEqualTo(5);
