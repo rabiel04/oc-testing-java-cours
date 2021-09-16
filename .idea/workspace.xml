@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4afacb44-e4db-40ed-ba45-e21ce56cf5bd" name="Changes" comment="erste commit">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/openclassrooms/testing/calcul/domain/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/openclassrooms/testing/calcul/domain/CalculatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4afacb44-e4db-40ed-ba45-e21ce56cf5bd" name="Changes" comment="erste commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
